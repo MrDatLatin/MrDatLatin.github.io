@@ -2,8 +2,8 @@
 title: "Climate Change Data Visualization"
 excerpt: "An interactive website I built to display local climate data."
 header:
-  image: /assets/images/climate-project-banner.png
-  teaser: /assets/images/climate-project-teaser.png
+  image: /assets/images/disarmbomb.png
+  teaser: /assets/images/disarmbombpart2.png
 tags:
   - Coding
   - Data Science
