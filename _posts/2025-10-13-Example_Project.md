@@ -1,6 +1,6 @@
 ---
-title: "Climate Change Data Visualization"
-excerpt: "An interactive website I built to display local climate data."
+title: "Example of First Project"
+excerpt: "YOu will use a template like this."
 header:
   image: /assets/images/disarmbomb.png
   teaser: /assets/images/disarmbombpart2.png
