@@ -51,7 +51,7 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-sitemap # required for GitHub Pages
   - jekyll-gist
   - jekyll-feed
   - jemoji
