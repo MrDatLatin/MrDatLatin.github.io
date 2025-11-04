@@ -13,7 +13,12 @@ tags:
 
 **this text is bold**
  *this is text that italics now*
-__This is text is underscored__
+__This is text is bold__
+_this is text works as well to make italics_
+**_this text is bold as underscored_**
+this is ~strikethrough~
+
+
 
 
 This is first example
