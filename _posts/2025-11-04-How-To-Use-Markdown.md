@@ -46,6 +46,8 @@ this is ~~strikethrough~~
 
 >>>This is the third example
 
+This is how I show an image
 
+image: /assets/images/pcb1.jpg
 
 
