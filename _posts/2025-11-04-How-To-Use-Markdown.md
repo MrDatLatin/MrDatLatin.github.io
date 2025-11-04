@@ -84,3 +84,11 @@ This method allow use to set dimensions
 How to create links
 
 You can see the live project [here](https://mrdatlatin.github.io/).
+
+
+This is my main paragraph. You can see the live project [here][project-link].
+I can even talk about the [project-link] again, and it will just work.
+
+... (all your other content) ...
+
+[project-link]: https://mrdatlatin.github.io/
