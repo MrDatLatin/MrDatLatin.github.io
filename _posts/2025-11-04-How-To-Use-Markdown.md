@@ -23,7 +23,7 @@ __This is text is bold__
 
 _this is text works as well to make italics_
 
-**_this text is bold as underscored_**
+**_this text is bold as italics_**
 
 this is ~~strikethrough~~
 
