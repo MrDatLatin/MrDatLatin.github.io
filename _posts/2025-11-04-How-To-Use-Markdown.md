@@ -48,6 +48,31 @@ this is ~~strikethrough~~
 
 This is how I show an image
 
-image: /assets/images/pcb1.jpg
+
+
+Image Methods
+
+Simplest 
+
+![PCB Image](/assets/images/pcb1.jpg)
+
+
+![PCB Image]({{ "/assets/images/pcb1.jpg" | relative_url }})
+
+This is best practice for Jekyll because it automatically adjusts the path if your site is in a subdirectory (like `username.github.io/project-name`).
+
+
+
+
+Second method more html tag
+
+<img src="/assets/images/pcb1.jpg" alt="PCB Image">
+
+
+This method allow use to set dimensions
+
+<img src="/assets/images/pcb1.jpg" alt="PCB Image" width="500">
+
+
 
 
