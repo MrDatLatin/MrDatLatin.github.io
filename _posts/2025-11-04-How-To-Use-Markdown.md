@@ -52,7 +52,13 @@ This is how I show an image
 
 Image Methods
 
-Simplest 
+**File names are case sensitive!!**
+
+
+Good Practice: use lowercase and hyphens
+
+
+Simplest Method
 
 ![PCB Image](/assets/images/PCB1.jpg)
 
