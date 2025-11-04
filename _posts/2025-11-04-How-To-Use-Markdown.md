@@ -54,10 +54,10 @@ Image Methods
 
 Simplest 
 
-![PCB Image](/assets/images/pcb1.jpg)
+![PCB Image](/assets/images/PCB1.jpg)
 
 
-![PCB Image]({{ "/assets/images/pcb1.jpg" | relative_url }})
+![PCB Image]({{ "/assets/images/PCB1.jpg" | relative_url }})
 
 This is best practice for Jekyll because it automatically adjusts the path if your site is in a subdirectory (like `username.github.io/project-name`).
 
@@ -66,12 +66,12 @@ This is best practice for Jekyll because it automatically adjusts the path if yo
 
 Second method more html tag
 
-<img src="/assets/images/pcb1.jpg" alt="PCB Image">
+<img src="/assets/images/PCB1.jpg" alt="PCB Image">
 
 
 This method allow use to set dimensions
 
-<img src="/assets/images/pcb1.jpg" alt="PCB Image" width="500">
+<img src="/assets/images/PCB1.jpg" alt="PCB Image" width="500">
 
 
 
