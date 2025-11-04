@@ -25,7 +25,7 @@ _this is text works as well to make italics_
 
 **_this text is bold as underscored_**
 
-this is ~strikethrough~
+this is ~~strikethrough~~
 
 
 
