@@ -11,6 +11,10 @@ tags:
 ---
 
 
+This is just simple text 
+
+
+
 **this text is bold**
  *this is text that italics now*
 __This is text is bold__
@@ -20,7 +24,21 @@ this is ~strikethrough~
 
 
 
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+###### Heading 6
+
+
+
 
 This is first example
 >This is the second example
 >>This is the third example
+
+
+
+
