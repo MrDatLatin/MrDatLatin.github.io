@@ -17,7 +17,7 @@ This is just simple text
 
 **this text is bold**
 
- *this is text that italics now*
+ *this is text is in italics now*
 
 __This is text is bold__
 
@@ -87,8 +87,20 @@ You can see the live project [here](https://mrdatlatin.github.io/).
 
 
 This is my main paragraph. You can see the live project [here][project-link].
-I can even talk about the [project-link] again, and it will just work.
+I can even talk about the [here] [project-link] again, and it will just work.
 
 ... (all your other content) ...
 
 [project-link]: https://mrdatlatin.github.io/
+
+
+a better method would just refer by number see below
+
+
+You can see the live project [here][1]. And if you want to see
+my GitHub profile, you can click [this link][2].
+
+... (all your other content) ...
+
+[1]: https://mrdatlatin.github.io/
+[2]: https://github.com/mrdatlatin
