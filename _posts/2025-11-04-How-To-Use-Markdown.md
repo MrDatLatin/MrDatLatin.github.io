@@ -106,4 +106,6 @@ my GitHub profile, you can click [this link][2].
 [2]: https://github.com/mrdatlatin
 
 
-You can download the project worksheet [right here](/assets/files/file1.pdf).
+You can download the project pdf worksheet [right here](/assets/files/file1.pdf).
+
+You can download the Arduino Blink program [right here](/assets/files/arduino_blink.ino).
