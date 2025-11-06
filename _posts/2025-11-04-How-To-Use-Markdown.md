@@ -108,4 +108,4 @@ my GitHub profile, you can click [this link][2].
 
 You can download the project pdf worksheet [right here](/assets/files/file1.pdf).
 
-You can download the Arduino Blink program [right here](/assets/files/arduino_blink.ino).
+You can download the Arduino Blink program [click here to download](/assets/files/arduino_blink.ino).
