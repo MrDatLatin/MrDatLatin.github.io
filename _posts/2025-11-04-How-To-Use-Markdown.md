@@ -104,3 +104,6 @@ my GitHub profile, you can click [this link][2].
 
 [1]: https://mrdatlatin.github.io/
 [2]: https://github.com/mrdatlatin
+
+
+You can download the project worksheet [right here](/assets/files/file1.pdf).
